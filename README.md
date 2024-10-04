@@ -50,8 +50,9 @@ SwithT Project의 목표는 개인 맞춤형 교육과 강의를 소비자가 �
 
 
 
+
+
 ## 📝 요구사항정의서
-[📝 요구사항 명세서 상세보기]
 ![10-04 17;49;11](https://github.com/user-attachments/assets/300bd034-9bdc-4528-8c11-190ab157cbf6)
 ![10-04 17;49;33](https://github.com/user-attachments/assets/650567d9-73fb-4285-8257-6224af0cf00b)
 
@@ -60,10 +61,10 @@ SwithT Project의 목표는 개인 맞춤형 교육과 강의를 소비자가 �
 
 
 
+
+
 ## 📋 ERD
 ![Fixed SwithT erd(24-09-20)](https://github.com/user-attachments/assets/2bdb36fa-7ef1-4860-8a0b-bc9ad29ce864)
-
-
 <br/>
 
 
