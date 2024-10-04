@@ -18,6 +18,34 @@ SwithT Project의 목표는 개인 맞춤형 교육과 강의를 소비자가 �
 
   <br/>
 
+
+## 🛠 기술 스택
+
+###  DB
+![mariadb](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![redis](https://img.shields.io/badge/redis-FF4438?style=for-the-badge)
+![amazons3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
+### BACKEND
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![socketdotio](https://img.shields.io/badge/socketdotio-010101?style=for-the-badge&logo=socketddotio&logoColor=white)
+
+### FRONTEND
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![vuetify](https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+
+### TOOLS
+![Notion](https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
+![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+<br/>
+
+
+
 - SwithT 프로젝트 기획안 & ERD 산출물 (다운로드 구글 드라이브 경로)
 [https://docs.google.com/document/d/1rItqavlArU5LAFOxyeX9hyeGIgq6BaKa/edit?usp=sharing&ouid=111722606720962372619&rtpof=true&sd=true](https://drive.google.com/drive/folders/1IG-iXcijRqTSNroaCC4z6IVFkCxqDw4E?usp=sharing)
 
