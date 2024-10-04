@@ -48,7 +48,7 @@ SwithT Project의 목표는 개인 맞춤형 교육과 강의를 소비자가 �
 
 
 
-(https://github.com/user-attachments/files/17255587/Team.tweety.-.Tweety.Project.WBS.pdf)
+[Team tweety - Tweety Project WBS.pdf](https://github.com/user-attachments/files/17255603/Team.tweety.-.Tweety.Project.WBS.pdf)
 
 
 
