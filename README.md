@@ -47,7 +47,9 @@ SwithT Project의 목표는 개인 맞춤형 교육과 강의를 소비자가 �
 ## 🗓️ Work Breakdown Structure
   
   
-  [Team tweety - Tweety Project WBS.pdf](https://github.com/user-attachments/files/17255603/Team.tweety.-.Tweety.Project.WBS.jpg)
+![Tweety svg](https://github.com/user-attachments/assets/ad544831-e95b-4d0b-a12c-e1e0063254c9)
+
+
 
 
 
