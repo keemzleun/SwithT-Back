@@ -45,13 +45,13 @@ SwithT Project의 목표는 개인 맞춤형 교육과 강의를 소비자가 �
 
 <br/>
 
-## 🗓️ Work Breakdown Structure -[WBS 상세보기](https://docs.google.com/spreadsheets/d/1GH_rCJKcHojk6-SSolw8yv9uBQK2eujsTFvQqh4fSvo/edit?gid=811390028#gid=811390028)
+## 🗓️ Work Breakdown Structure - [WBS 상세보기](https://docs.google.com/spreadsheets/d/1GH_rCJKcHojk6-SSolw8yv9uBQK2eujsTFvQqh4fSvo/edit?gid=811390028#gid=811390028)
 ![10-04 17;43;57](https://github.com/user-attachments/assets/996d0475-6631-4f5b-8a92-a8c780ffb7c0)
 
 
 
 
-## 📝 요구사항정의서 -[요구사항 정의서 상세보기](https://docs.google.com/spreadsheets/d/1GH_rCJKcHojk6-SSolw8yv9uBQK2eujsTFvQqh4fSvo/edit?gid=348186960#gid=348186960)
+## 📝 요구사항정의서 - [요구사항 정의서 상세보기](https://docs.google.com/spreadsheets/d/1GH_rCJKcHojk6-SSolw8yv9uBQK2eujsTFvQqh4fSvo/edit?gid=348186960#gid=348186960)
 ![10-04 17;49;11](https://github.com/user-attachments/assets/300bd034-9bdc-4528-8c11-190ab157cbf6)
 ![10-04 17;49;33](https://github.com/user-attachments/assets/650567d9-73fb-4285-8257-6224af0cf00b)
 
