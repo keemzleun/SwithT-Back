@@ -72,7 +72,7 @@ SwithT Project의 목표는 개인 맞춤형 교육과 강의를 소비자가 �
 ![10-06 18;51;32](https://github.com/user-attachments/assets/761fb617-1199-4ecf-9a27-53989b8af605)
 <br/>
 
-## 📝 [API 단위 테스트 결과서 상세보기](https://documenter.getpostman.com/view/38251958/2sAXxLDFDP)
+## 📝 API 단위 테스트 결과서 - [API 단위 테스트 결과서 상세보기](https://documenter.getpostman.com/view/38251958/2sAXxLDFDP)
 ![image](https://github.com/user-attachments/assets/e80c869f-52d1-4292-b6c6-880e7ef3ca55)
 ![image](https://github.com/user-attachments/assets/9655f44b-83d5-42d8-a405-6ebc8d2034a6)
 ![image](https://github.com/user-attachments/assets/7400b73a-5e2a-4365-a172-bddda2f4127e)
@@ -82,4 +82,9 @@ SwithT Project의 목표는 개인 맞춤형 교육과 강의를 소비자가 �
 <br/>
 
 
-## 📝 [화면 설계서 상세보기](https://www.figma.com/design/823D0xOfvggZJW6FOEDC5B/SwithT-Project?node-id=564-7656&t=D2ENMnjlRpluYxjO-1)
+## 📝 화면 설계서 - [화면 설계서 상세보기](https://www.figma.com/design/823D0xOfvggZJW6FOEDC5B/SwithT-Project?node-id=564-7656&t=D2ENMnjlRpluYxjO-1)
+![image](https://github.com/user-attachments/assets/54ee0d86-5465-4378-bf46-93fd61a43134)
+![image](https://github.com/user-attachments/assets/ed49326c-394d-4333-900d-2fd50ceb51cf)
+![image](https://github.com/user-attachments/assets/97da9fba-f566-4d39-8244-5a86e6e5dfa6)
+![image](https://github.com/user-attachments/assets/70bc7cbb-cf28-4c26-97e2-a2c9ca8edc63)
+
