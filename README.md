@@ -73,4 +73,4 @@ SwithT Project의 목표는 개인 맞춤형 교육과 강의를 소비자가 �
 <br/>
 
 
-- [화면설계서](https://www.figma.com/design/823D0xOfvggZJW6FOEDC5B/SwithT-Project?node-id=564-7656&t=D2ENMnjlRpluYxjO-1)
+## [화면설계서](https://www.figma.com/design/823D0xOfvggZJW6FOEDC5B/SwithT-Project?node-id=564-7656&t=D2ENMnjlRpluYxjO-1)
