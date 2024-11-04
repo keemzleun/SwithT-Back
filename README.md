@@ -237,26 +237,25 @@ SwithT Project의 목표는 개인 맞춤형 강의를 소비자가 개인 일�
 ## 시스템아키텍처 및 CI/CD
 
 
-<details>
-<summary><b>시스템 아키텍처</b></summary>
-    
-  ![AWS 환경](https://github.com/user-attachments/assets/f8108583-ba58-46f4-9540-76f54e605f50)
-
-</details>
-
-
-<details>
-<summary><b>백엔드</b></summary>
-    
-  ![백엔드](https://github.com/user-attachments/assets/9d4a1e6c-e741-48c3-a3a4-71b720651bbc)
+  <details>
+  <summary><b>시스템 아키텍처</b></summary>
+      
+    ![AWS 환경](https://github.com/user-attachments/assets/f8108583-ba58-46f4-9540-76f54e605f50)
   
-</details>
+  </details>
 
 
-<details>
-<summary><b>프론트엔드</b></summary>
-  
+  <details>
+  <summary><b>백엔드</b></summary>
+      
+    ![백엔드](https://github.com/user-attachments/assets/9d4a1e6c-e741-48c3-a3a4-71b720651bbc)
     
-  ![프론트](https://github.com/user-attachments/assets/251e849c-e6c4-4d36-a845-1da1e78b197f)
+  </details>
+
+
+  <details>
+  <summary><b>프론트엔드</b></summary>
   
-</details>
+    ![프론트](https://github.com/user-attachments/assets/251e849c-e6c4-4d36-a845-1da1e78b197f)
+    
+  </details>
