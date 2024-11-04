@@ -1,4 +1,4 @@
-산출물 최신화 날짜 ( 2024-10-24 ) 계속해서 업로드 진행 중.
+![AWS 환경](https://github.com/user-attachments/assets/7f58edcd-a42f-4377-8d2a-610fa09402e7)산출물 최신화 날짜 ( 2024-10-24 ) 계속해서 업로드 진행 중.
 
 ## 🙋🏻팀원
 
@@ -232,6 +232,38 @@ SwithT Project의 목표는 개인 맞춤형 강의를 소비자가 개인 일�
 <details>
 <summary><b>댓글 생성/조회/수정/삭제</b></summary>
 <img src="https://github.com/user-attachments/assets/41c6ee12-321b-489a-a957-216ab533f017" alt="댓글 생성/조회/수정/삭제/>
+</details>
+<br/>
+
+🌟🌟🌟🌟🌟🌟
+
+##  시스템아키텍처 및 CI/CD
+### 회원 가입 및 로그인 화면
+<details>
+<summary><b>시스템 아키텍처</b></summary>
+    
+  ![AWS 환경](https://github.com/user-attachments/assets/f8108583-ba58-46f4-9540-76f54e605f50)
+
+</details>
+<br/>
+
+
+<summary><b>백엔드</b></summary>
+    
+  ![백엔드](https://github.com/user-attachments/assets/9d4a1e6c-e741-48c3-a3a4-71b720651bbc)
+
+
+</details>
+<br/>
+
+
+<summary><b>프론트엔드</b></summary>
+  
+    
+  ![프론트](https://github.com/user-attachments/assets/251e849c-e6c4-4d36-a845-1da1e78b197f)
+</details>
+<br/>
+
 </details>
 <br/>
 
