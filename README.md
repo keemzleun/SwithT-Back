@@ -234,19 +234,7 @@ SwithT Project의 목표는 개인 맞춤형 강의를 소비자가 개인 일�
 <br/>
 
 
-
-
-
-
-    
-
-
-
-
-
-
 ## 시스템아키텍처 및 CI/CD
-
 
 
 <details>
@@ -272,4 +260,3 @@ SwithT Project의 목표는 개인 맞춤형 강의를 소비자가 개인 일�
   ![프론트](https://github.com/user-attachments/assets/251e849c-e6c4-4d36-a845-1da1e78b197f)
   
 </details>
-<br/>
