@@ -236,8 +236,18 @@ SwithT Project의 목표는 개인 맞춤형 강의를 소비자가 개인 일�
 
 
 
-## 
-### 시스템아키텍처 및 CI/CD
+
+
+    
+
+
+
+
+
+
+## 시스템아키텍처 및 CI/CD
+
+
 
 <details>
 <summary><b>시스템 아키텍처</b></summary>
@@ -245,7 +255,6 @@ SwithT Project의 목표는 개인 맞춤형 강의를 소비자가 개인 일�
   ![AWS 환경](https://github.com/user-attachments/assets/f8108583-ba58-46f4-9540-76f54e605f50)
 
 </details>
-<br/>
 
 
 <details>
@@ -254,7 +263,6 @@ SwithT Project의 목표는 개인 맞춤형 강의를 소비자가 개인 일�
   ![백엔드](https://github.com/user-attachments/assets/9d4a1e6c-e741-48c3-a3a4-71b720651bbc)
   
 </details>
-<br/>
 
 
 <details>
@@ -265,13 +273,3 @@ SwithT Project의 목표는 개인 맞춤형 강의를 소비자가 개인 일�
   
 </details>
 <br/>
-
-
-## 시스템아키텍처 및 CI/CD
-<details>
-<summary><b>시스템 아키텍처</b></summary>
-    
-  ![AWS 환경](https://github.com/user-attachments/assets/f8108583-ba58-46f4-9540-76f54e605f50)
-
-</details>
-
